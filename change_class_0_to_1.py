@@ -1,6 +1,6 @@
 import os
 
-# PATH_DATASET
+
 # Укажите путь к папке с файлами меток
 PATH_DATASET = r"D:\myProgramm\VgtuCNN2024\valid_dataset_helicopter_and_drone\test\labels"
 
